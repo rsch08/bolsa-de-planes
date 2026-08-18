@@ -3,8 +3,8 @@
 // guarda en `plans.created_by` / `plans.completed_by`.
 // Personaliza los nombres y el emoji con los de ustedes dos.
 export const USERS = [
-  { id: "persona-1", name: "Persona 1", emoji: "🌻" },
-  { id: "persona-2", name: "Persona 2", emoji: "🌊" },
+  { id: "zopenko", name: "Zopenko", emoji: "🌻" },
+  { id: "zangana", name: "Zangana", emoji: "🌊" },
 ];
 
 const STORAGE_KEY = "bolsa-de-planes:whoami";
